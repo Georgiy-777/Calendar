@@ -1,0 +1,14 @@
+.myBtn{
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    cursor: pointer ;
+    justify-content: center;
+    border: none;
+    font-size: 25px;
+    margin-left: 20px;
+}
